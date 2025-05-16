@@ -22,7 +22,7 @@ final class GlobalDefinitions {
     static let contactUsUrl = URL(string: "https://apps-by-konstantin.com/contact")!
     
     enum Paygate {
-        static let lifetime = "prep.exams.uscitizenship.lifetime"
-        static let subscription = "prep.exams.uscitizenship.monthly"
+        static let lifetime = "prep.exams.uscitizenship2.lifetime"
+        static let subscription = "prep.exams.uscitizenship2.monthly"
     }
 }
